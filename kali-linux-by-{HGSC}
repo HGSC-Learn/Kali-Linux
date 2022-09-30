@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash -e
 
-VERSION=2020011601
-BASE_URL=https://images.kali.org/nethunter
+VERSION=2022011601
+BASE_URL=https://kali.download/nethunter-images/kali-2022.3/nethunter-2022.3-ailsa_ii-marshmallow-kalifs-full.zip
 USERNAME={HGSC}{STUDENT}
 
 function unsupported_arch() {
